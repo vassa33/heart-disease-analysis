@@ -63,4 +63,3 @@ jupyter notebook heart_disease_analysis.ipynb
 ## Colab
 
 Link to [Colab Notebook](https://colab.research.google.com/drive/1V5ktHIVTTPiWVhnvoYl4V4EZOLhLXdKc?usp=sharing).
-
